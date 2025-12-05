@@ -17,11 +17,11 @@ El grafo tiene 10 vértices y 9 aristas, es conexo y forma un árbol (no tiene c
 Se analizó la importancia del Router como nodo crítico: si falla, la red se divide en 3 componentes independientes.
 Se identificaron también los grados de cada nodo y la estructura jerárquica de comunicación.
 
-![Diagrama](ejercicio2/Diagrama 2.png)
+![Diagrama](ejercicio2/Diagrama_2.png)
 
 ## Ejercicio 3: [Nombre de tu grafo]
 El grafo modela el flujo de atención de un paciente en un turno de enfermería: Admisión, Triage, Valoración, Tratamientos, Laboratorio, Hospitalización y Alta.
 Es un grafo dirigido que representa el movimiento del paciente entre procesos clínicos.
 Se analizaron grados, conexiones, posibles ciclos y se identificó que la Sala de Tratamientos es el nodo más crítico del sistema.
 También se planteó una pregunta aplicada: el impacto de la saturación de la Sala de Tratamientos.
-![Diagrama](ejercicio3/Diagrama 3.png)
+![Diagrama](ejercicio3/Diagrama_3.png)

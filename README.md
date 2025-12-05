@@ -24,4 +24,5 @@ El grafo modela el flujo de atención de un paciente en un turno de enfermería:
 Es un grafo dirigido que representa el movimiento del paciente entre procesos clínicos.
 Se analizaron grados, conexiones, posibles ciclos y se identificó que la Sala de Tratamientos es el nodo más crítico del sistema.
 También se planteó una pregunta aplicada: el impacto de la saturación de la Sala de Tratamientos.
+
 ![Diagrama](ejercicio3/Diagrama3.png)

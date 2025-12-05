@@ -8,7 +8,7 @@
 Se modeló una aerolínea como un grafo dirigido y ponderado, donde cada vértice es una ciudad y cada arista representa un vuelo con su precio.
 Se calcularon grados de entrada y salida, rutas más económicas y se identificaron ciclos (por ejemplo: México → Cancún → Miami → México).
 También se determinó que México es la ciudad con más vuelos salientes y la ruta más barata hacia Miami pasa por Monterrey y Houston.
-![Diagrama](ejercicio1/diagrama.png)
+![Diagrama](ejercicio1/Diagrama.png)
 
 ## Ejercicio 2: Red de Computadoras
 Se representó la infraestructura de una oficina como un grafo no dirigido: Router, servidor, switches, PCs e impresoras.

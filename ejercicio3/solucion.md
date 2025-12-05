@@ -27,7 +27,20 @@ d) Diagrama del grafo = Ya subido
 
 e) Análisis: grados, conexidad, ciclos si existen
 
+| Proceso         | Entrada  | Salida |
+|-----------------|----------|--------|
+| Admision        |    0     |    1   |
+| Triage          |    1     |    1   |
+| Valoracion      |    1     |    2   |
+| Laboratorio     |    1     |    1   |
+| Tratamientos    |    2     |    2   |
+| Hospitalizacion |    1     |    1   |
+| Alta            |    2     |    0   |
 
+-Todos los nodos estan conectados pero no hay manera que desde un nodo puedas ir a otro superior
+-No existen ciclos
 
 f) Una pregunta interesante que puedas responder con tu grafo
+
+considero que mi grafo puede contestar la duda de por que algunas veces es que hay tanta tardanza en dar de alta a un paciente ya que la mayor congestion y el punto cirtico que indica si se dara de alta a un paciente es LA SALA DE TRATAMIENTOS, sin ese nodo seria imposible la dada de alta y hasta se congestionaria mas
 
